@@ -1,7 +1,8 @@
 title: h.ayhx # name of the site
 author: Chee Meng Au Yong # name of site's author
 email: auyongcheemeng@gmail.com # email of site's author
-url: https://testflight.auyong.me # root address of the site
+url: https://h.auyong.me # root address of the site
+#url: https://testflight.auyong.me # root address of the site
 baseurl: "" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
 description: > # description of the site (multiple lines allowed)
   A tiny Pi server on the edge of the internet. 
