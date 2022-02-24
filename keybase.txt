@@ -1,0 +1,79 @@
+==================================================================
+https://keybase.io/auyongcheemeng
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://h.auyong.me
+  * I am auyongcheemeng (https://keybase.io/auyongcheemeng) on keybase.
+  * I have a public key with fingerprint 57A5 1632 B3FB B5E1 F5EB  B2F1 6F74 2999 293D 7ECA
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01018f30757db7d99547e9b350933f60a3eab573187d71d78960d94d84a195945fea0a",
+            "fingerprint": "57a51632b3fbb5e1f5ebb2f16f742999293d7eca",
+            "host": "keybase.io",
+            "key_id": "6f742999293d7eca",
+            "kid": "01018f30757db7d99547e9b350933f60a3eab573187d71d78960d94d84a195945fea0a",
+            "uid": "f857a6ac8ddb1675ed230a6053e03519",
+            "username": "auyongcheemeng"
+        },
+        "revoke": {
+            "sig_ids": [
+                "5b963dc7e9e9daeec698f6f52a13fa5624858471a3f0a99756288472feeaf18d0f"
+            ]
+        },
+        "service": {
+            "hostname": "h.auyong.me",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1474555644,
+    "expire_in": 157680000,
+    "prev": "f315e147607a0440c2eda7bbbbff31ff3c45fd3c28d6c8f329b347d601bf4c3f",
+    "seqno": 12,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Comment: GPGTools - https://gpgtools.org
+
+owGtUm1QVFUYhtVgokD5IQFi6hUTcMH7/YHiDDQNGpOVwpAgbPfj3OUG7KXdyyIo
+SpI4RGhgyMAgkDYwIaspjsrCoInTCGs7Uysf5QwR1BCOlARC4wR0Ltm/fnZmzpx5
+3/O8z/uc5z2f+K/w8vNWtci6yLgj/d6uScErdfz36EOIoEqFSOwhJBssHyBHAjbN
+lK1ISCyCYijGygTKUIwkMBLHUSQDOIGgUI4gZBrlCcALFENgLCMxmMSwHI1KHCmx
+JI9xFEdSMuBRHjEismIxA2ueVbFokJZieAqjCVwgZEGgACZTQBBwGaNlhsQ5jsM5
+QmKAqBdmqTa9AooTeBuIUVSYg4FpWd5/4P9n3fnLdDILFdO8yEqSgNEMBSScQHka
+pQiAEhTG6UAbsFr4XADRfH6hajGLWQDkAosZKTYiVmBXs4Hurk0xQ+k2JDYdoQSO
+JiQR6gKcxAMg0hwr0zKF8xgh8xSNkyzFkgzGEzLKcxwDMyyMcRkAXsZYCZWRDMgN
++9oVcZlc9+qZhqyYf1TEwMiI5FlVTRXVHP1C0/Jssboop1aYp0MLgGB6RmISFIsE
+JwVL7MBqU1QLEotBqKgpOitGMiRFUTRJGhFwME+xApOiIyiGZlG49EbArvtFYHCq
+JEOjDI+SJCriQOIZAS4ZXsEtQoclQsRZiRbhnHA4GpKRaBQTZFIkZER/1vsWFXLj
+RkTjzZATOmfhtXwrQIr9yg1hK728/bx8njPof9jL7/nV/37sC7+uWgiUXvPm1ZRr
+jqPxRvU3R83AruDhj65OZU6ircc/dBji2vpd8/lnggnHiQjakXWT/KN1z8aFpP09
+50c7opzvpK9ITB67FT1QT/kW7F/X2+jeGZkatnbz152eSxfux0//7Phz2HVwTc+s
+YXDXXFSZ1dW17e3VCXWzhc3Hr40XNDM5lRVpVYN3A8bUtefOBu3o/qy8MrRppr78
+1Ycf9w1GmfcRCYHRU5MZ247uvnFqwZnYcvnEsdsvXU+foaou2y0bHnc1FPvuTmxM
+bRmZL1j/19LQK40Hbsz/smnfzs8zGn5wKZqtaf2VqdMBSXvtpUlLTxOqA882t605
+t7L2m45uZcppiEtDJ8Z63C+mvxnvCTKV/dR5Mu57YXHdYFv1vbSx7qLR2gntzK3k
+F9C63DspvpVS8j2fzNba2c7624uGkJYBtxP4vb6xMzTw5MUct5KmNs89Eo81PHAO
+Taj9b9juB/g/wPsyRiJGvyIItCbTNyZ6R1NZ8CIx3vRWSLvyQW7fk9C2XOPFiqGO
+K/XZj9o/zQwv3tR7YLF6+k7J+ZGgw8nfzedcf29DV2l7aN3hSFe215THs/2LvVf3
+uMO2Pg0PN7T6pGmeqpRLczeTBlfNPC7aajT512AB06eH2TDxScmYfUvvt8FHDEXv
+nvK03I2oKLGESHOcod/y40OQ9fL2zb1flm4pTHcv9c/9DQ==
+=sjts
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/auyongcheemeng
+
+==================================================================
