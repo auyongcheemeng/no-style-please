@@ -2,37 +2,60 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: info
+  - title: about
+    url: /about/
+    
+  - title: other places
     entries:
-      - title: a (nearly) no-CSS, fast, minimalist Jekyll theme.
-      - title: github repo
-        url: https://github.com/riggraz/no-style-please
-      - title: "used by <a href='https://riggraz.dev'>riggraz.dev</a> and <a href='https://github.com/riggraz/no-style-please/network/dependents'>many others</a>"
+      - title: t.ayhx
+        url: https://t.auyong.me
 
   - title: all posts
     post_list:
       limit: 5
       show_more: true
       show_more_text: See archive...
-      show_more_url: archive.html
+      show_more_url: /archive/
 
-  - title: posts by category
-    post_list:
-      category: example2
-      show_more: true
-      show_more_text: See more posts...
-      show_more_url: example2-archive.html
+  - title: categories archives
+    entries:
+      - title: bookmarks
+        url: /bookmarks/
+      - title: server
+        url: /server/  
 
   - title: rss
     url: feed.xml
+    
+  - title: miscellaneous
+    entries:
+      - title: keybase.txt
+        url: /keybase.txt
+      - title: ntp-stats
+        url: /ntp-stats/
+    
+
+#  - title: info
+#    entries:
+#      - title: a (nearly) no-CSS, fast, minimalist Jekyll theme.
+#      - title: github repo
+#        url: https://github.com/riggraz/no-style-please
+#      - title: "used by <a href='https://riggraz.dev'>riggraz.dev</a> and <a href='https://github.com/riggraz/no-style-please/network/dependents'>many others</a>"
+
+#  - title: posts by category
+#    post_list:
+#      category: example2
+#      show_more: true
+#      show_more_text: See more posts...
+#      show_more_url: example2-archive.html
   
-  - title: another list
-    entries:
-      - title: with subitems
-        entries:
-          - title: with subsubitems
-          - title: example page
-            url: about
-  - title: PRO TIP
-    entries:
-      - title: to edit this menu, edit _data/menu.yml file
+#  - title: another list
+#    entries:
+#      - title: with subitems
+#        entries:
+#          - title: with subsubitems
+#          - title: example page
+#            url: about
+#  - title: PRO TIP
+#    entries:
+#      - title: to edit this menu, edit _data/menu.yml file
