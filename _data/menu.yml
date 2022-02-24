@@ -5,6 +5,11 @@ entries:
   - title: about
     url: /about/
     
+#  - title: PGP keys
+#    entries:
+#      - title: ""
+#      - title: ""
+
   - title: other places
     entries:
       - title: t.ayhx
@@ -17,7 +22,7 @@ entries:
       show_more_text: See archive...
       show_more_url: /archive/
 
-  - title: categories archives
+  - title: post categories
     entries:
       - title: bookmarks
         url: /bookmarks/
@@ -26,14 +31,13 @@ entries:
 
   - title: rss
     url: feed.xml
-    
+
   - title: miscellaneous
     entries:
       - title: keybase.txt
         url: /keybase.txt
       - title: ntp-stats
         url: /ntp-stats/
-    
 
 #  - title: info
 #    entries:
