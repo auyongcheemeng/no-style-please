@@ -147,7 +147,7 @@ Alternatively please feel free to use a public IPv6 DNS servers like [Google](ht
    Updated `router-advert: link-mtu 1492` to fix some adge cases mentioned in #3
 
 
-[test ipv6]: https://ipv6-test.com/
+[test ipv6]: https://test-ipv6.com/
 [comcast ipv6 test]:http://test-ipv6.comcast.net/
 [tlund.se IPv4/IPv6 test pages]: http://ipv4.tlund.se/
 [internet.nl]: http://http://conn.internet.nl/connection/
