@@ -102,13 +102,6 @@ Config as follows (in two parts):
                             name WAN_LOCAL
                         }
                     }
-                    ipv6 {
-                        address {
-                            autoconf
-                        }
-                        enable {
-                        }
-                    }
                     mtu 1492
                     name-server auto
                     password ****************
@@ -145,12 +138,13 @@ Alternatively please feel free to use a public IPv6 DNS servers like [Google](ht
    For the most part IPv6 does work on Maxis Fiber (ipv6.google.com etc), passes ipv6 test pages [[test ipv6][], [comcast ipv6 test][], [tlund.se IPv4/IPv6 test pages][] - passed all alternate pages except the IPv6 only and IPv6 only via cname pages, aparrently those dont exists/broken tests], and a non fullscore score on [internet.nl][].
 4. [Update 2022-03-14]    
    Updated `router-advert: link-mtu 1492` to fix some adge cases mentioned in #3
+5. Removed `ipv6 autoconfig enabled` from `interface eth0 vif 621 pppoe 0`, as redundant when *dhcpv6-pd* is enabled, leaving enabled causes the router to both use *slaac* and *dhcpv6-pd* potentionaly causing issues to certain hosts downstream.
 
 
 [test ipv6]: https://test-ipv6.com/
 [comcast ipv6 test]:http://test-ipv6.comcast.net/
 [tlund.se IPv4/IPv6 test pages]: http://ipv4.tlund.se/
-[internet.nl]: http://http://conn.internet.nl/connection/
+[internet.nl]: https://en.internet.nl/
 
 ### Disclaimer
 (update March 2021)
@@ -174,3 +168,5 @@ TL;DR Information above is provided as it is; no more no less; for the benefit t
     2021-10-06 - Added notes to some edge case issues
     
     2022-03-14 - Added mtu options to fix some edge cases (ssl handshakes failing on certain servers)
+    
+    2022-06-08 - Removed `ipv6 autoconfig enabled` from the relevent interface.
