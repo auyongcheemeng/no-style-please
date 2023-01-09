@@ -26,10 +26,19 @@ theme_config:
 sass:
   style: :compressed
 
+kramdown:
+  smart_quotes:               apos,apos,quot,quot
+  typographic_symbols:        {hellip: ...}
+
+feed:
+  posts_limit: 10
+
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
+include:
+  - .wellknown
 exclude: 
   - Gemfile
   - "*.gemspec"
