@@ -27,8 +27,8 @@ sass:
   style: :compressed
 
 kramdown:
-  smart_quotes:               apos,apos,quot,quot
-  typographic_symbols:        {hellip: ...}
+  smart_quotes: apos,apos,quot,quot
+  typographic_symbols: {hellip: ...}
 
 feed:
   posts_limit: 10
@@ -36,6 +36,7 @@ feed:
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-sitemap
 
 include:
   - .wellknown
@@ -43,3 +44,14 @@ exclude:
   - Gemfile
   - "*.gemspec"
 
+defaults:
+  -
+    scope:
+      path: "pdf/**/*.pdf"
+    values:
+      sitemap: false
+  -
+    scope:
+      path: "files/*"
+    values:
+      sitemap: false

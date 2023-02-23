@@ -7,3 +7,4 @@ gem "kramdown-parser-gfm"
 gemspec
 
 gem 'jekyll-compose', group: [:jekyll_plugins]
+gem 'jekyll-sitemap'
