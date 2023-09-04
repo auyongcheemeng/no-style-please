@@ -10,12 +10,6 @@ entries:
 #      - title: ""
 #      - title: ""
 
-  - title: other places
-    entries:
-      - title: <a rel="me" href="https://instagram.com/auyongcheemeng">instagram/@auyongcheemeng</a>
-      - title: <a rel="me" href="https://twit.social/@auyongcheemeng">@auyongcheemeng@twit.social</a>
-      - title: <a rel="me" href="https://mastodon.world/@auyongcheemeng">@auyongcheemeng@mastodon.world</a>
-
   - title: all posts
     post_list:
       limit: 5
@@ -31,6 +25,13 @@ entries:
         url: /networking/
       - title: server
         url: /server/
+
+  - title: other places
+    entries:
+      - title: <a rel="me" href="https://flickr.com/auyongcheemeng">flickr/@auyongcheemeng</a>
+      - title: <a rel="me" href="https://instagram.com/auyongcheemeng">instagram/@auyongcheemeng</a>
+      - title: <a rel="me" href="https://twit.social/@auyongcheemeng">@auyongcheemeng@twit.social</a>
+      - title: <a rel="me" href="https://mastodon.world/@auyongcheemeng">@auyongcheemeng@mastodon.world</a>
 
   - title: rss
     url: feed.xml
