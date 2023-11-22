@@ -2,8 +2,8 @@
 layout: post
 title: build notes - unbound 1.18.0
 date: 2023-10-06 03:02 +0800
-category: build-notes
-tags: server dns unbound
+category: server
+tags: dns unbound build-notes
 ---
 A quick build notes for my typical use case on compiling `unbound 1.18.0` for armhf on the Raspberry Pis
 
