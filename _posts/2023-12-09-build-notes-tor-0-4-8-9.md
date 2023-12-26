@@ -1,11 +1,11 @@
 ---
 layout: post
-title: build notes - tor 0.4.8.9
+title: build notes - tor 0.4.8.9/0.4.8.10
 date: 2023-12-09 11:04 +0800
 category: server
 tags: tor build-notes
 ---
-Quick notes on `tor 0.4.8.9` from source for my use case building on  Raspberry Pi 32 bit `armhf`.
+Quick notes on `tor 0.4.8.9/0.4.8.10` from source for my use case building on  Raspberry Pi 32 bit `armhf`.
 
     # Tor Official Repository (for source)
     deb-src [arch=armhf signed-by=/usr/share/keyrings/tor-archive-keyring.gpg] https://deb.torproject.org/torproject.org bookworm main
