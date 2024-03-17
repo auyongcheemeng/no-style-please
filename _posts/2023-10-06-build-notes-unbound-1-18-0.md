@@ -1,11 +1,11 @@
 ---
 layout: post
-title: build notes - unbound 1.18.0
+title: build notes - unbound 1.18.0/1.19.0
 date: 2023-10-06 03:02 +0800
 category: server
 tags: dns unbound build-notes
 ---
-A quick build notes for my typical use case on compiling `unbound 1.18.0` for armhf on the Raspberry Pis
+A quick build notes for my typical use case on compiling `unbound 1.18.0/1.19.0` for armhf on the Raspberry Pis
 
     # Getting build dependancies installed
     sudo apt-get install libssl-dev libexpat1-dev libnghttp2-dev libevent-dev libsystemd-dev libpython2-dev python-is-python2 swig libprotobuf-c-dev protobuf-c-compiler
