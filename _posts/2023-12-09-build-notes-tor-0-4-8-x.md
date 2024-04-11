@@ -1,6 +1,6 @@
 ---
 layout: post
-title: build notes - tor 0.4.8.9/0.4.8.10
+title: build notes - tor 0.4.8.x
 date: 2023-12-09 11:04 +0800
 category: server
 tags: tor build-notes
