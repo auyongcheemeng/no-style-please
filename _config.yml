@@ -37,6 +37,7 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-archives
 
 include:
   - .wellknown
@@ -55,3 +56,13 @@ defaults:
       path: "files/*"
     values:
       sitemap: false
+
+jekyll-archives:
+  enabled: [] # empty for disabled
+  layout: archive
+  permalinks:
+    year: '/:year/'
+    month: '/:year/:month/'
+    day: '/:year/:month/:day/'
+    tag: '/tag/:name/'
+    category: '/category/:name/'

@@ -8,3 +8,4 @@ gemspec
 
 gem 'jekyll-compose', group: [:jekyll_plugins]
 gem 'jekyll-sitemap'
+gem 'jekyll-archives'
