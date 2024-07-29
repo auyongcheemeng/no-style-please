@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "(Podcast) BFM's Bigger Picture / Live & Learn - Curriculum #6: Bukit Bintang Girls’ School is 125"
-date: 2024-07-25 02:47 +0800
+date: 2018-02-08
 categories: bookmarks
 ---
 Keeping a copy of this here (because I can and also alumni for the BBBS) and just in case the original disappears from the web.
