@@ -23,6 +23,8 @@ entries:
         url: /bookmarks/
       - title: networking
         url: /networking/
+      - title: podcasts
+        url: /podcasts
       - title: server
         url: /server/
 
