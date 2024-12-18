@@ -42,8 +42,8 @@ entries:
     entries:
       - title: keybase.txt
         url: /keybase.txt
-      - title: ntp-stats
-        url: /ntp-stats/
+      - title: ntpstats
+        url: https://ntpstats.auyong.me:1123
 
 #  - title: info
 #    entries:
