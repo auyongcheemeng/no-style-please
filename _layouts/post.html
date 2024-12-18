@@ -6,6 +6,13 @@ layout: default
 
 <article>
   <p class="post-meta">
+    Posted in 
+	{% if page.categories == empty %}
+	  *
+	{% endif %}
+	{% unless page.categories == empty %}
+      {{ page.categories }}
+	{% endunless %} //
     <time datetime="{{ page.date }}">{{ page.date | date: site.theme_config.date_format }}</time>
   </p>
   
