@@ -134,15 +134,14 @@ Notes:
 1.   Maxis IPv6 uses a `::/64` prefix (as far as I can tell)
 2.   `fe80::f369:71d6:f865:9974` and `fe80::b1c3:b1cd:a709:ddc5` are my local IPv6 DNS caching servers;    
 Alternatively please feel free to use a public IPv6 DNS servers like [Google](https://developers.google.com/speed/public-dns/docs/using), [OpenDNS](https://www.opendns.com/about/innovations/ipv6/) or [Cloudflare](https://developers.cloudflare.com/1.1.1.1/setting-up-1.1.1.1/).
-3. [Update 2021-10-06]    
-   For the most part IPv6 does work on Maxis Fiber (ipv6.google.com etc), passes ipv6 test pages [[test ipv6][], [comcast ipv6 test][], [tlund.se IPv4/IPv6 test pages][] - passed all alternate pages except the IPv6 only and IPv6 only via cname pages, aparrently those dont exists/broken tests], and a non fullscore score on [internet.nl][].
+3. [Update 2025-02-16]    
+   For the most part IPv6 does work on Maxis Fiber (ipv6.google.com etc), passes ipv6 test pages [[test ipv6][], [tlund.se IPv4/IPv6 test pages][]], and a non fullscore score on [internet.nl][] - for direct reachability perhaps due to having a firewall on.
 4. [Update 2022-03-14]    
    Updated `router-advert: link-mtu 1492` to fix some adge cases mentioned in #3
 5. Removed `ipv6 autoconfig enabled` from `interface eth0 vif 621 pppoe 0`, as redundant when *dhcpv6-pd* is enabled, leaving enabled causes the router to both use *slaac* and *dhcpv6-pd* potentionaly causing issues to certain hosts downstream.
 
 
 [test ipv6]: https://test-ipv6.com/
-[comcast ipv6 test]:http://test-ipv6.comcast.net/
 [tlund.se IPv4/IPv6 test pages]: http://ipv4.tlund.se/
 [internet.nl]: https://en.internet.nl/
 
