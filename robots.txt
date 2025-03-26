@@ -6,3 +6,4 @@ Disallow: /*.webp$
 Disallow: /img/*
 Disallow: /*.pdf$
 Disallow: /files/*
+Disallow: /cdn-cgi/
