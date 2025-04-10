@@ -7,3 +7,5 @@ Disallow: /img/*
 Disallow: /*.pdf$
 Disallow: /files/*
 Disallow: /cdn-cgi/
+Disallow: /*.php
+Disallow: /*wp-*
