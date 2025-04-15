@@ -7,6 +7,6 @@ tags: photography
 ---
 An oldie but goody, a site with charts and  data of various digital sensors of  modern and not so modern digital cameras. 
 
-My first encouter of this site a few years ago was it's [Photograohic Dynamic Range Chart](https://www.photonstophotos.net/Charts/PDR.htm) and interative [Optical Bench](https://www.photonstophotos.net/GeneralTopics/Lenses/OpticalBench/OpticalBench.htm).
+My first encouter of this site a few years ago was it's [Photographic Dynamic Range Chart](https://www.photonstophotos.net/Charts/PDR.htm) and interative [Optical Bench](https://www.photonstophotos.net/GeneralTopics/Lenses/OpticalBench/OpticalBench.htm).
 
 Link: [Photons to Photos](https://www.photonstophotos.net/)
