@@ -2,7 +2,7 @@
 layout: post
 title: "Public DNS servers (Google DNS, OpenDNS, Quad9, Cloudflare) on Maxis Fiber, Benchmarked "
 date: 2018-04-06 
-categories: networking
+categories: networking, benchmarks
 tags: dns
 ---
 Update 2022: Maxis ISP default provided domain name servers to fiber customers are as follows:

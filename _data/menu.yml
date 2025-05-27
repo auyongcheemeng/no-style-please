@@ -19,6 +19,8 @@ entries:
 
   - title: post categories
     entries:
+      - title: benchmarks
+        url: /benchmarks/
       - title: bookmarks
         url: /bookmarks/
       - title: networking
@@ -27,6 +29,7 @@ entries:
         url: /podcasts
       - title: server
         url: /server/
+      
 
   - title: other places
     entries:

@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 ---
 
+> Milo, coffee or tea?
+
 *A human*: Chee Meng Au Yong ([about.me][] / [github][] / [keybase.io][]) runs the site/server.
 
 AY.HX is a server running on a [Raspberry Pi][] single board computer. When not behind [Cloudflare][], direct connections are [HTTP strict transport security][HSTS] enabled with [Let's Encrypt][] domain validation certs. CMS is [Jekyll][], a static site generator with a modified version of minimalist theme [no-style-please][].

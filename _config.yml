@@ -6,7 +6,7 @@ url: https://h.auyong.me # root address of the site
 baseurl: "" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
 description: > # description of the site (multiple lines allowed)
   A tiny Pi server on the edge of the internet. 
-  Usually serves the hot cup of tea or coffee and on rare ocassions: HTTPS page requests. 
+  Usually serves requests to the passing robot crawlers and on rare ocassions: static html pages to actual human beings. 
 
 permalink: /:slug.html
 
